@@ -1,4 +1,3 @@
-import fetch from 'node-fetch';
 
 // Get
 fetch('https://reqres.in/api/users/2')

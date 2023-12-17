@@ -6,7 +6,6 @@ Please have a look at the file package.json.
 You need to install node-fetch using the following command:  npm install node-fetch
 */
 
-import fetch from 'node-fetch';
 
 async function getUser() {
   try {
